@@ -1,0 +1,7 @@
+[project]
+name = "smol-fs"
+version = "0.1.0"
+description = "Simple emulation of FFS."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
